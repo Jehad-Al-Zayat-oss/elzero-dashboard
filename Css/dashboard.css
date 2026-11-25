@@ -1364,7 +1364,7 @@ header .icons .notification::before{
 .Courses-content .box::before {
   position: absolute;
   content: '';
-  background-image: url(/images/team-01.png);
+  background-image: url(../images/team-01.png);
   width: 65px;
   height: 65px;
   background-size: cover;
