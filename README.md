@@ -4,7 +4,7 @@ A responsive multi-page dashboard built using HTML5 and CSS3, based on Elzero We
 
 ## Live Demo
 
-**[View Live Demo]()**
+**[View Live Demo](https://jehad-al-zayat-oss.github.io/elzero-dashboard/)**
 
 ## About The Project
 
