@@ -12,7 +12,6 @@ body {
   color: #000;
   background-color: #eee;
   font-size: 14px;
-  /* direction: rtl; */
 }
 ::-webkit-scrollbar {
   width: 15px;
